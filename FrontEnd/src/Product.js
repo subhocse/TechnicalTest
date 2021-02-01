@@ -42,7 +42,6 @@ export class Product extends Component {
         this.refreshList();
     }
 
-
     //For deleting product
     deleteProduct(productid) {
         if (window.confirm('Are you sure?')) {
