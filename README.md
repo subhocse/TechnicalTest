@@ -1,6 +1,6 @@
 # This project is for technical test. 
 
-In the system, the API is effictively handling millions of records for processing. The project is developed using frontend javascript framework called 'React' and backend is developed .NET core 3.1. 
+In the system, the API is effictively handling millions of records for processing. The project is developed using frontend javascript framework called 'React' with REST API and backend is developed using .NET core 3.1. 
 
 ### Installation:
 1. Clone the repository
