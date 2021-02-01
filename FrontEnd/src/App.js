@@ -16,7 +16,7 @@ function App() {
           Technical Test
         </h3>
         <Navigation />
-        //Code For routing
+        {/* //Code For routing */}
         <Switch>
           <Route path='/' component={Home} exact />
           <Route path='/productcategory' component={ProductCategory} />
