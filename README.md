@@ -13,6 +13,7 @@ In the system, the API is effictively handling millions of records for processin
    - Visual Studio Code (For front)
    - Microsoft SQL Server 2012 or higher
    - Node.js (For front)
+   - For npm write 'npm install'
   
 
 ### There are two applications to run :-
