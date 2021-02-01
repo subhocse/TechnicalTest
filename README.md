@@ -10,9 +10,9 @@ In the system, the API is effictively handling millions of records for processin
 2. Install if necessary the required dependencies:
    
    - Visual Studio 2019 (For backend)
-   - Visual Studio Code (For Front)
+   - Visual Studio Code (For front)
    - Microsoft SQL Server 2012 or higher
-   - Node.js
+   - Node.js (For front)
   
 
 ### There are two applications to run :-
