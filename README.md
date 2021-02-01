@@ -15,8 +15,9 @@ In the system, the API is effictively handling millions of records for processin
    - Node.js
   
 
-### There are two applications :-
+### There are two applications to run :-
 
-Front-end: To run this application , go to the path of application i.e. FrontEnd and type 'npm start'.
-Back-end: To run this application , go to the path of application i.e. RESTAPI and run the 'WebAPI.sln' using Visual Studio 2019.
+## Front-end: To run this application , go to the path of application i.e. FrontEnd and type 'npm start'.
+
+## Back-end: To run this application , go to the path of application i.e. RESTAPI and run the 'WebAPI.sln' using Visual Studio 2019.
 Microsoft SQL Server is used for storing all the data.
